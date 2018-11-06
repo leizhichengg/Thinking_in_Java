@@ -10,7 +10,7 @@ class Mug {
     }
 }
 
-public class Mugs {
+public class Mugs   {
     Mug mug1;
     Mug mug2;
     {
